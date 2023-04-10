@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SeleniumBot": {
+      "commandName": "Project",
+      "commandLineArgs": "https://tx200.traviantop.com/ Keladi keladi12 328886"
+    }
+  }
+}
